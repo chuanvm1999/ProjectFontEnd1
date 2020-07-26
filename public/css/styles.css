@@ -209,6 +209,10 @@ header {
     margin-bottom: 23px;
 }
 
+.font-size {
+    font-size: 1rem;
+}
+
 .delay03 {
     content: '';
     display: block;
